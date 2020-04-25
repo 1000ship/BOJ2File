@@ -7,6 +7,6 @@
 
 ## You should set these things
 - Make sure 'driver/chromedriver' version is equal with your chrome version. And OS also.
-- Create 'me.key' text file on root folder. And put your BOJ ID in first line and PW in second line.
+- <s>Create 'me.key' text file on root folder. And put your BOJ ID in first line and PW in second line.</s>
 
 > If you do these upper things, just run 'main.py' 
